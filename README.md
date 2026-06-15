@@ -1,1 +1,0 @@
-# House Rules Alpha\nDrag-and-drop prototype with turn system and data-driven cards.
