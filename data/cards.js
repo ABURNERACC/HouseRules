@@ -1,0 +1,1 @@
+const CARD_LIBRARY=[{name:'Inferno',qty:5,desc:'Discard random card'},{name:'Shield',qty:15,desc:'Block effect'},{name:'Combo',qty:6,desc:'Extra play'},{name:'Cash',qty:10,desc:'Extra life'}];
